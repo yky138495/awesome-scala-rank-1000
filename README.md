@@ -1,0 +1,1 @@
+# awesome-scala-rank-1000
